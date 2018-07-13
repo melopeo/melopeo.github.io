@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Community Detection in Networks Via Nonlinear Modularity Eigenvectors</title>
+      <link>https://melopeo.github.io/publication/nl/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://melopeo.github.io/publication/nl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Power Mean Laplacian for Multilayer Graph Clustering</title>
       <link>https://melopeo.github.io/publication/pm/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
