@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Node Classification for Signed Social Networks Using Diffuse Interface Methods</title>
+      <link>https://melopeo.github.io/publication/gl/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://melopeo.github.io/publication/gl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spectral Clustering of Signed Graphs via Matrix Power Means </title>
       <link>https://melopeo.github.io/publication/spm/</link>
       <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
